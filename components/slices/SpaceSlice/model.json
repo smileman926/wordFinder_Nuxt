@@ -1,0 +1,26 @@
+{
+  "id": "space_slice",
+  "type": "SharedSlice",
+  "name": "SpaceSlice",
+  "description": "SpaceSlice",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "SpaceSlice",
+      "primary": {
+        "horizontalLine": {
+          "type": "Text",
+          "config": {
+            "label": "",
+            "id": "horizontalLine",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

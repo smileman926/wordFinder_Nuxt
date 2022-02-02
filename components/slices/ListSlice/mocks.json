@@ -1,0 +1,189 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ListSlice",
+    "primary": {
+      "listType": "ul",
+      "introText": [
+        {
+          "type": "paragraph",
+          "text": "Eiusmod laborum nisi nulla enim pariatur aliqua mollit aliquip id deserunt id.",
+          "spans": []
+        }
+      ],
+      "outroText": [
+        {
+          "type": "paragraph",
+          "text": "Veniam excepteur esse irure dolore irure officia ipsum consectetur. Sunt adipisicing et tempor amet officia aliqua velit quis consectetur aute ullamco cillum eiusmod esse. Voluptate est tempor est ut dolore amet occaecat tempor cupidatat et.",
+          "spans": []
+        }
+      ]
+    },
+    "items": [
+      {
+        "image": {
+          "dimensions": {
+            "width": 800,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=800&h=500&fit=crop",
+          " small": {
+            "dimensions": {
+              "width": 300,
+              "height": 0
+            },
+            "alt": "Placeholder image",
+            "copyright": null,
+            "url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=300&h=0&fit=crop"
+          },
+          " thumb": {
+            "dimensions": {
+              "width": 100,
+              "height": 0
+            },
+            "alt": "Placeholder image",
+            "copyright": null,
+            "url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=100&h=0&fit=crop"
+          }
+        },
+        "itemTitle": "cultivate distributed blockchains",
+        "link": "drive value-added networks",
+        "listItem": [
+          {
+            "type": "paragraph",
+            "text": "Id consequat eu commodo Lorem sunt velit dolor aute pariatur aliquip id sunt consectetur id proident.",
+            "spans": []
+          }
+        ],
+        "imageOption": "left",
+        "imageSource": "scale cross-media applications"
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 800,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=800&h=500&fit=crop",
+          " small": {
+            "dimensions": {
+              "width": 300,
+              "height": 0
+            },
+            "alt": "Placeholder image",
+            "copyright": null,
+            "url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=300&h=0&fit=crop"
+          },
+          " thumb": {
+            "dimensions": {
+              "width": 100,
+              "height": 0
+            },
+            "alt": "Placeholder image",
+            "copyright": null,
+            "url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=100&h=0&fit=crop"
+          }
+        },
+        "itemTitle": "envisioneer distributed action-items",
+        "link": "integrate global e-services",
+        "listItem": [
+          {
+            "type": "paragraph",
+            "text": "Elit minim cillum ut est fugiat non. Eu tempor cillum in incididunt velit velit excepteur nisi. Quis ex ex consectetur aute anim.",
+            "spans": []
+          }
+        ],
+        "imageOption": "left",
+        "imageSource": "leverage killer vortals"
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 800,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1560762484-813fc97650a0?w=800&h=500&fit=crop",
+          " small": {
+            "dimensions": {
+              "width": 300,
+              "height": 0
+            },
+            "alt": "Placeholder image",
+            "copyright": null,
+            "url": "https://images.unsplash.com/photo-1560762484-813fc97650a0?w=300&h=0&fit=crop"
+          },
+          " thumb": {
+            "dimensions": {
+              "width": 100,
+              "height": 0
+            },
+            "alt": "Placeholder image",
+            "copyright": null,
+            "url": "https://images.unsplash.com/photo-1560762484-813fc97650a0?w=100&h=0&fit=crop"
+          }
+        },
+        "itemTitle": "orchestrate wireless interfaces",
+        "link": "synthesize rich content",
+        "listItem": [
+          {
+            "type": "paragraph",
+            "text": "Minim velit magna nostrud cupidatat. Mollit nisi est nisi irure amet. Elit proident exercitation mollit.",
+            "spans": []
+          }
+        ],
+        "imageOption": "left",
+        "imageSource": "transition killer mindshare"
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 800,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=800&h=500&fit=crop",
+          " small": {
+            "dimensions": {
+              "width": 300,
+              "height": 0
+            },
+            "alt": "Placeholder image",
+            "copyright": null,
+            "url": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=300&h=0&fit=crop"
+          },
+          " thumb": {
+            "dimensions": {
+              "width": 100,
+              "height": 0
+            },
+            "alt": "Placeholder image",
+            "copyright": null,
+            "url": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=100&h=0&fit=crop"
+          }
+        },
+        "itemTitle": "innovate robust platforms",
+        "link": "enhance world-class blockchains",
+        "listItem": [
+          {
+            "type": "paragraph",
+            "text": "Consequat aliqua officia Lorem duis consequat nisi sunt non.",
+            "spans": []
+          }
+        ],
+        "imageOption": "left",
+        "imageSource": "leverage granular synergies"
+      }
+    ],
+    "slice_type": "list_slice"
+  }
+]

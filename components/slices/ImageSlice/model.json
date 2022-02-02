@@ -1,0 +1,53 @@
+{
+  "id": "image_slice",
+  "type": "SharedSlice",
+  "name": "ImageSlice",
+  "description": "ImageSlice",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "ImageSlice",
+      "primary": {
+        "imageType": {
+          "config": {
+            "label": "Image Type",
+            "placeholder": "",
+            "options": [
+              "default",
+              "infographic"
+            ],
+            "default_value": "default"
+          },
+          "type": "Select"
+        },
+        "image": {
+          "config": {
+            "label": "Image",
+            "constraint": {
+              "width": 800
+            },
+            "thumbnails": [
+              {
+                "name": "mobile",
+                "width": 400,
+                "height": 0
+              }
+            ]
+          },
+          "type": "Image"
+        },
+        "imageSource": {
+          "config": {
+            "label": "Image Source",
+            "placeholder": ""
+          },
+          "type": "Text"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

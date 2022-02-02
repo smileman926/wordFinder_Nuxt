@@ -1,0 +1,15 @@
+{
+  "id": "related_slice",
+  "type": "slice",
+  "name": "RelatedSlice",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "900bcpkr9ncrzf",
+      "primary": {},
+      "items": {}
+    }
+  ]
+}

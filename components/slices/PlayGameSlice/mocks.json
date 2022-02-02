@@ -1,0 +1,25 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "PlayGameSlice",
+    "primary": {
+      "gameName": "aggregate dot-com systems",
+      "gameDescription": "architect bleeding-edge bandwidth",
+      "link": "redefine next-generation e-markets",
+      "teaserImage": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1560762484-813fc97650a0?w=900&h=500&fit=crop"
+      }
+    },
+    "items": [],
+    "slice_type": "play_game_slice"
+  }
+]

@@ -1,0 +1,68 @@
+ends_with:
+  title_tag: |
+    Words that End in {{ends_with.toUpperCase()}}
+  meta_description: |
+    Words ending in {{ends_with.toUpperCase()}} for Scrabble and Words with Friends by WordTips. Get all {{filter_results}} words that end in {{ends_with.toUpperCase()}} here!
+  text_top: |
+    <b>Words that end with {{ends_with.toUpperCase()}}</b> are commonly used for word games like Scrabble and Words with Friends. This list will help you to find the top scoring words to beat the opponent. You can also find a list of all <a href='/words-start-with/{{ends_with}}/'>words that start with {{ends_with.toUpperCase()}}</a> and <a href='/words-with/{{ends_with}}/'>words with {{ends_with.toUpperCase()}}</a>.
+starts_with:
+  title_tag: |
+    Words that Start with {{starts_with.toUpperCase()}}
+  meta_description: |
+    Words starting with {{starts_with.toUpperCase()}} for Scrabble and Words with Friends by WordTips. Get all {{filter_results}} words beginning with {{starts_with.toUpperCase()}} here!
+  text_top: |
+    <b>Words that begin with {{starts_with.toUpperCase()}}</b> are commonly used for word games like Scrabble and Words with Friends. This list will help you to find the top scoring words to beat the opponent. You can also find a list of all <a href='/words-end-in/{{starts_with}}/'>words that end in {{starts_with.toUpperCase()}}</a> and <a href='/words-with/{{starts_with}}/'>words with {{starts_with.toUpperCase()}}</a>.
+contains:
+  title_tag: |
+    Words with {{contains.toUpperCase()}}
+  meta_description: |
+    {{contains.toUpperCase()}} Words: A list of all Scrabble and Words with Friends words with the letter {{contains.toUpperCase()}}. Get {{num_words_after_pagination}} top scoring words with {{contains.toUpperCase()}} here.
+  text_top: |
+    A list of all {{contains.toUpperCase()}} words with their Scrabble and Words with Friends points. You can also find a list of all <a href='/words-start-with/{{contains}}/'>words that start with {{contains.toUpperCase()}}</a>. Also commonly searched for are <a href='/words-end-in/{{contains}}/'>words that end in {{contains.toUpperCase()}}</a>.
+x_letter_words:
+  title_tag: |
+    {{length}} Letter Words
+  meta_description: |
+    {{length.toUpperCase()}} Letter Words by WordTips. Get all {{filter_results}} {{length.toUpperCase()}} Letter Words for Scrabble and Words with Friends here!
+  text_top: |
+    <b>{{length.toUpperCase()}} Letter Words</b> are often very useful for word games like Scrabble and Words with Friends. This list will help you to find the top scoring words to beat the opponent. Word Finder by WordTips gives you a list of words ordered by their word game points of your choice.
+x_letter_words_starting_with:
+  title_tag: |
+    {{length}} Letter Words starting with {{starts_with.toUpperCase()}}
+  meta_description: |
+    {{length.toUpperCase()}} Letter Words that start with {{starts_with.toUpperCase()}} by WordTips. Get all {{filter_results}} {{length.toUpperCase()}} Letter {{starts_with.toUpperCase()}} Words starting with {{starts_with.toUpperCase()}} for Scrabble and Words with Friends here!
+  text_top: |
+    <b>{{length.toUpperCase()}} Letter Words beginning with {{starts_with.toUpperCase()}}</b> are often very useful for word games like Scrabble and Words with Friends. This list will help you to find the top scoring words to beat the opponent. Word Finder by WordTips gives you a list of words ordered by their word game points of your choice. You might also be interested in <a href='/{{length}}-letter-words-with-{{starts_with}}/'>{{length}} Letter Words with {{starts_with.toUpperCase()}}</a>.
+
+x_letter_words_with:
+  title_tag: |
+    {{length}} Letter Words with {{contains.toUpperCase()}}
+  meta_description: |
+    {{length.toUpperCase()}} Letter Words with {{contains.toUpperCase()}} by WordTips. Get all {{filter_results}} {{length.toUpperCase()}} Letter {{contains.toUpperCase()}} Words for Scrabble and Words with Friends here!
+  text_top: |
+    <b>{{length.toUpperCase()}} Letter Words with {{contains.toUpperCase()}}</b> are often very useful for word games like Scrabble and Words with Friends. This list will help you to find the top scoring words to beat the opponent. Word Finder by WordTips gives you a list of words ordered by their word game points of your choice.
+
+x_letter_words_ending_in:
+  title_tag: |
+    {{length}} Letter Words ending in {{ends_with.toUpperCase()}}
+  meta_description: |
+    {{length}} Letter Words ending in {{ends_with.toUpperCase()}} by WordTips. Get all {{filter_results}} {{length.toUpperCase()}} Letter {{ends_with.toUpperCase()}} Words that end in {{ends_with.toUpperCase()}} for Scrabble and Words with Friends here!
+  text_top: |
+    <b>{{length.toUpperCase()}} Letter Words ending in {{ends_with.toUpperCase()}}</b> are often very useful for word games like Scrabble and Words with Friends. This list will help you to find the top scoring words to beat the opponent. Word Finder by WordTips gives you a list of words ordered by their word game points of your choice. You might also be interested in <a href='/{{length}}-letter-words-with-{{ends_with}}/'>{{length}} Letter Words with {{ends_with.toUpperCase()}}</a>.
+with_char1_and_char2:
+  title_tag: |
+    Words with {{contains_char1.toUpperCase()}} and {{contains_char2.toUpperCase()}}
+  meta_description: |
+    Words with {{contains_char1.toUpperCase()}} and {{contains_char2.toUpperCase()}} for Scrabble and Words with Friends by WordTips. Get all {{filter_results}} words that contain {{contains_char1.toUpperCase()}} and {{contains_char2.toUpperCase()}}.
+  text_top: |
+    <b>Words with {{contains_char1.toUpperCase()}} and {{contains_char2.toUpperCase()}}</b> are commonly used for word games like Scrabble and Words with Friends. This list will help you to find the top scoring words to beat the opponent. You can also find a list of all <a href='/words-with/{{contains_char1}}/'>words with {{contains_char1.toUpperCase()}}</a> and <a href='/words-with/{{contains_char2}}/'>words with {{contains_char2.toUpperCase()}}</a>.
+with_char_without_char:
+  title_tag: |
+    Words with {{contains.toUpperCase()}} and not {{not_contains.toUpperCase()}}
+  meta_description: |
+    All words containing letter {{contains.toUpperCase()}} but not {{not_contains.toUpperCase()}}
+with_char_twice:
+  title_tag: |
+    Words with two {{contains_char1.toUpperCase()}}'s
+  meta_description: |
+    Words with two {{contains_char1.toUpperCase()}}

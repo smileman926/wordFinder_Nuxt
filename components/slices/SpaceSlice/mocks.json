@@ -1,0 +1,14 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "SpaceSlice",
+    "primary": {
+      "horizontalLine": "enhance impactful deliverables"
+    },
+    "items": [],
+    "slice_type": "space_slice"
+  }
+]

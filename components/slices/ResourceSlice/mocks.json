@@ -1,0 +1,35 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ResourceSlice",
+    "primary": {
+      "intro": [
+        {
+          "type": "paragraph",
+          "text": "Eiusmod ea excepteur irure eu anim occaecat sit exercitation enim dolor elit sunt duis exercitation eu.",
+          "spans": []
+        }
+      ]
+    },
+    "items": [
+      {
+        "name": "envisioneer one-to-one experiences",
+        "link": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        }
+      },
+      {
+        "name": "exploit 24/365 e-services",
+        "link": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        }
+      }
+    ],
+    "slice_type": "resource_slice"
+  }
+]

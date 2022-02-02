@@ -1,0 +1,33 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ImageSlice",
+    "primary": {
+      "imageType": "default",
+      "image": {
+        "dimensions": {
+          "width": 800,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1587840171670-8b850147754e?w=800&h=500&fit=crop",
+        "mobile": {
+          "dimensions": {
+            "width": 400,
+            "height": 0
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1587840171670-8b850147754e?w=400&h=0&fit=crop"
+        }
+      },
+      "imageSource": "incentivize global partnerships"
+    },
+    "items": [],
+    "slice_type": "image_slice"
+  }
+]

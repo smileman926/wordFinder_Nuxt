@@ -1,0 +1,19 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "DataPlaceholderSlice",
+    "primary": {
+      "dataType": "exploit sticky metrics",
+      "showThumbs": true,
+      "maxItems": 3874,
+      "type": "article",
+      "customTitle": "reinvent B2B bandwidth",
+      "sortBy": "date_desc"
+    },
+    "items": [],
+    "slice_type": "data_placeholder_slice"
+  }
+]

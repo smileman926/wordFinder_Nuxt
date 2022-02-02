@@ -1,0 +1,47 @@
+{
+  "id": "play_game_slice",
+  "type": "SharedSlice",
+  "name": "PlayGameSlice",
+  "description": "PlayGameSlice",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "PlayGameSlice",
+      "primary": {
+        "gameName": {
+          "config": {
+            "label": "Game Name",
+            "placeholder": ""
+          },
+          "type": "Text"
+        },
+        "gameDescription": {
+          "config": {
+            "label": "Game Description",
+            "placeholder": ""
+          },
+          "type": "Text"
+        },
+        "link": {
+          "config": {
+            "label": "Link",
+            "placeholder": ""
+          },
+          "type": "Text"
+        },
+        "teaserImage": {
+          "config": {
+            "label": "Teaser Image",
+            "constraint": {},
+            "thumbnails": []
+          },
+          "type": "Image"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

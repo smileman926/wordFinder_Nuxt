@@ -1,0 +1,80 @@
+{
+  "id": "data_placeholder_slice",
+  "type": "SharedSlice",
+  "name": "DataPlaceholderSlice",
+  "description": "DataPlaceholderSlice",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "DataPlaceholderSlice",
+      "primary": {
+        "dataType": {
+          "config": {
+            "label": "Data Type",
+            "placeholder": ""
+          },
+          "type": "Text"
+        },
+        "showThumbs": {
+          "config": {
+            "label": "Show Thumbs",
+            "placeholder": "",
+            "placeholder_false": "false",
+            "placeholder_true": "true",
+            "default_value": true
+          },
+          "type": "Boolean"
+        },
+        "maxItems": {
+          "config": {
+            "label": "Max Items",
+            "placeholder": ""
+          },
+          "type": "Number"
+        },
+        "type": {
+          "config": {
+            "label": "Type",
+            "placeholder": "",
+            "options": [
+              "article",
+              "games",
+              "search",
+              "list",
+              "tool",
+              "words-by-length",
+              "dictionary",
+              "index"
+            ]
+          },
+          "type": "Select"
+        },
+        "customTitle": {
+          "config": {
+            "label": "Custom Title",
+            "placeholder": ""
+          },
+          "type": "Text"
+        },
+        "sortBy": {
+          "config": {
+            "label": "Sort By",
+            "placeholder": "",
+            "options": [
+              "date_desc",
+              "date_asc",
+              "title_desc",
+              "title_asc"
+            ],
+            "default_value": "date_desc"
+          },
+          "type": "Select"
+        }
+      },
+      "items": {}
+    }
+  ]
+}
